@@ -10,4 +10,4 @@ wget 'https://github.com/rudi9999/NTSSH-MANAGER/raw/main/ntssh-manager'; chmod +
 
 binario: NewToolsWords
 
-script: @Rufu99
+script :point_right: [@Rufu99](https://t.me/Rufu99)
