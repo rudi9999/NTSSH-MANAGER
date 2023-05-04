@@ -4,7 +4,7 @@
 
 # install
 
-apt update -y; apt upgrade -y; wget 'https://github.com/rudi9999/NTSSH-MANAGER/raw/main/ntssh-manager'; chmod +x ntssh-manager; ./ntssh-manager
+wget 'https://github.com/rudi9999/NTSSH-MANAGER/raw/main/ntssh-manager'; chmod +x ntssh-manager; ./ntssh-manager
 
 ## creditos
 
