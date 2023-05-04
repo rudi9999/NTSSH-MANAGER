@@ -11,4 +11,5 @@ wget 'https://github.com/rudi9999/NTSSH-MANAGER/raw/main/ntssh-manager'; chmod +
 binario :point_right: [NewToolsWords](https://t.me/ntwtools)
 
 script :point_right: [@Rufu99](https://t.me/Rufu99)
+
 grupo: :point_right: [ADMRufu](https://t.me/ADMRufu)
